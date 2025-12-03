@@ -12,3 +12,5 @@ python-dotenv
 apscheduler
 fpdf2
 fastapi-mail
+a2wsgi
+pymysql
